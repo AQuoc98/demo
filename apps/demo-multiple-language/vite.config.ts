@@ -5,7 +5,7 @@ import { nxViteTsPaths } from '@nx/vite/plugins/nx-tsconfig-paths.plugin';
 
 export default defineConfig({
   root: __dirname,
-  cacheDir: '../../node_modules/.vite/apps/demo',
+  cacheDir: '../../node_modules/.vite/apps/demo-multiple-language',
 
   server: {
     port: 4200,
@@ -25,7 +25,7 @@ export default defineConfig({
   // },
 
   build: {
-    outDir: '../../dist/apps/demo',
+    outDir: '../../dist/apps/demo-multiple-language',
     emptyOutDir: true,
     reportCompressedSize: true,
     commonjsOptions: {

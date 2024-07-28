@@ -1,0 +1,38 @@
+{
+    "welcome": {
+        "part1": "Hallo",
+        "part2": "Willkommen {{description}}",
+        "everybody": "alle zusammen",
+        "man": "Mann",
+        "woman": "Frau"
+    },
+    "hero": {
+        "part1": "Du bist startklar",
+        "part2": "Was kommt als Nächstes?"
+    },
+    "learningMaterials": {
+        "title": "Lernmaterialien",
+        "documentation": {
+            "title": "Dokumentation",
+            "shortDes": "Alles ist darin enthalten"
+        },
+        "blog": {
+            "title": "Blog",
+            "shortDes": "Changelog, Funktionen & Veranstaltungen"
+        },
+        "youtube": {
+            "title": "YouTube-Kanal",
+            "shortDes": "Nx Show, Vorträge & Tutorials"
+        }
+    },
+    "others": {
+        "vscode": {
+            "title": "Installiere Nx Console für VSCode",
+            "shortDes": "Die offizielle VSCode-Erweiterung für Nx."
+        },
+        "jetbrain": {
+            "title": "Installiere Nx Console für JetBrains",
+            "shortDes": "Verfügbar für WebStorm, Intellij IDEA Ultimate und mehr!"
+        }
+    }
+}
